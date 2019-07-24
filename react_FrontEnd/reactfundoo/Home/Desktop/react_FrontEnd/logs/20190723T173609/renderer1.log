@@ -1,0 +1,4 @@
+[2019-07-23 17:38:18.711] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/user/Desktop/react_FrontEnd/.vscode'
+[2019-07-23 17:38:18.715] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/user/Desktop/react_FrontEnd/.vscode'
+[2019-07-23 17:38:32.464] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-07-23 17:38:32.481] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)

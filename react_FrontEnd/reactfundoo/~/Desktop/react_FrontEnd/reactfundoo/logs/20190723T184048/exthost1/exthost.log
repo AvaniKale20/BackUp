@@ -1,0 +1,12 @@
+[2019-07-23 18:40:52.792] [exthost] [info] extension host started
+[2019-07-23 18:40:52.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascriptreact"}
+[2019-07-23 18:40:52.988] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-23 18:40:53.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-23 18:40:53.308] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-23 18:40:53.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-23 18:40:53.313] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-23 18:40:53.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-23 18:40:53.343] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-23 18:40:53.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-23 18:40:53.517] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/11/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-23 18:40:53.526] [exthost] [info] eager extensions activated
